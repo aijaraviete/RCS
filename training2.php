@@ -43,7 +43,7 @@
                 public $address;
 
                 public function setName($name) {
-                    $this->name = $name; // ??? sintakse ->
+                    $this->name = $name; 
                 }
 
                 public function getName() {
@@ -69,9 +69,7 @@
             echo 'Surname: ' . $user->getSurname();
 
 
-
             
-
 
 
             ?>

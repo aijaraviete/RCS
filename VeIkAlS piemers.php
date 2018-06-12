@@ -43,9 +43,9 @@
             /* Ilvas kods:
 
             // 1. echo($string) //veikals
-	// 2. dabuut masiivu
-	// 3. masiivaa nomainiit uz lieliem burtiem
-	// VAR IZTIKT 4. savienot masiivu par tekstu
+            // 2. dabuut masiivu
+            // 3. masiivaa nomainiit uz lieliem burtiem
+            // VAR IZTIKT 4. savienot masiivu par tekstu
 
 	//echo($string);
 	$array = str_split($string);
